@@ -23,5 +23,5 @@ sudo apt install musl
 For Debian:
 sudo dpkg install musl
 
-For busybox:
+How to install lcc in busybox:
 busybox wget https://github.com/ShreyashSarkarInGithub4636/LCC/releases/download/musl/lcc -O lcc && mv ./lcc /bin/lcc
