@@ -1,6 +1,6 @@
 This is lcc.
 Lightweight C Compiler.
-It is an alternitive to GNU Compiler COllection (gcc)
+It is an alternitive to GNU Compiler Collection (gcc)
 
 To compile it, run:
 musl-gcc --static -o lcc lcc.c
