@@ -1,4 +1,4 @@
-THis is lcc.
+This is lcc.
 Lightweight C Compiler.
 It is an alternitive to GNU Compiler COllection (gcc)
 
