@@ -24,3 +24,4 @@ For Debian:
 sudo dpkg install musl
 
 For busybox:
+busybox wget https://github.com/ShreyashSarkarInGithub4636/LCC/releases/download/musl/lcc -O lcc && mv ./lcc /bin/lcc
